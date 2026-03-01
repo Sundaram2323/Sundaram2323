@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sundaram Kapil 👋
 
-<!--
-**Sundaram2323/Sundaram2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Mechanical Engineer with expertise in:
+- Additive Manufacturing (LPBF, DED – Meltio)
+- FDM, SLA, SLS
+- CNC 3-Axis Programming
+- CAD/CAM Design
+- Metal 3D Printing for Medical Implants
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- Fusion 360
+- SolidWorks
+- Magics
+- Meltio DED
+- Wire EDM
+- CNC Machining
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📂 Current Focus
+- Hybrid Manufacturing
+- Process Optimization
+- Advanced Manufacturing Research
+
+## 📫 Connect With Me
+LinkedIn:https://www.linkedin.com/feed/
+Email: Sundramkapil13@gmail.com
 -->
